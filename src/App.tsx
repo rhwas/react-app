@@ -1,25 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import "./styles.css";
+import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
+import provinces from './map_data/provinces.png'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // <div className="App">
+    //   <div className="img-container">
+    //     <img
+    //       src={provinces}
+    //       alt="provinces"
+    //     />
+    //   </div>
+    // </div>
+    <TransformWrapper
+      initialScale={1}
+      initialPositionX={2000}
+      initialPositionY={1000}
+      limitToBounds={false}
+      centerZoomedOut={false}
+    >
+      <TransformComponent>
+        <img src={provinces} alt="provinces" />
+      </TransformComponent>
+    </TransformWrapper>
   );
 }
 
