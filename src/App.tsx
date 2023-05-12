@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import "./styles.css";
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
-import provinces from './map_data/provinces.png'
+import provinces from './map_data/states.png'
 import background from './map_data/background.jpg'
 
 function App() {
