@@ -20,6 +20,10 @@ function App() {
       initialPositionY={1000}
       limitToBounds={false}
       centerZoomedOut={false}
+      maxScale={8}
+      minScale={0.2}
+      centerOnInit={true}
+      zoomAnimation={{disabled: true}}
     >
       <TransformComponent>
         <img src={provinces} alt="provinces" />
