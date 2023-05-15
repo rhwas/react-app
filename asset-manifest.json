@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.269a00c7.css",
-    "main.js": "/react-app/static/js/main.c98926ed.js",
+    "main.css": "/react-app/static/css/main.5356f475.css",
+    "main.js": "/react-app/static/js/main.9005f6bf.js",
     "static/js/787.b701888c.chunk.js": "/react-app/static/js/787.b701888c.chunk.js",
+    "static/media/provinces.png": "/react-app/static/media/provinces.a5a5016f725dfcce74b8.png",
     "static/media/states.png": "/react-app/static/media/states.89e275ec5ce41ec9d79d.png",
     "static/media/Victoria3_logo.png": "/react-app/static/media/Victoria3_logo.393ae2a04ec9f0aaa02d.png",
     "static/media/background.jpg": "/react-app/static/media/background.d81943226863fc621ec9.jpg",
+    "static/media/provinces_icon.png": "/react-app/static/media/provinces_icon.edad84cb85623b9c928a.png",
+    "static/media/states_icon.png": "/react-app/static/media/states_icon.ab207d1e4ebef53b149f.png",
     "index.html": "/react-app/index.html",
-    "main.269a00c7.css.map": "/react-app/static/css/main.269a00c7.css.map",
-    "main.c98926ed.js.map": "/react-app/static/js/main.c98926ed.js.map",
+    "main.5356f475.css.map": "/react-app/static/css/main.5356f475.css.map",
+    "main.9005f6bf.js.map": "/react-app/static/js/main.9005f6bf.js.map",
     "787.b701888c.chunk.js.map": "/react-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.269a00c7.css",
-    "static/js/main.c98926ed.js"
+    "static/css/main.5356f475.css",
+    "static/js/main.9005f6bf.js"
   ]
 }
