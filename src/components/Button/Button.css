@@ -1,0 +1,9 @@
+.app-button {
+    color: white;
+    cursor: pointer;
+}
+
+.app-button.tertiary {
+    background: none;
+    border: none;
+}
