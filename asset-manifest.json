@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.5356f475.css",
-    "main.js": "/react-app/static/js/main.9005f6bf.js",
+    "main.css": "/react-app/static/css/main.de920fde.css",
+    "main.js": "/react-app/static/js/main.80cb62e8.js",
     "static/js/787.b701888c.chunk.js": "/react-app/static/js/787.b701888c.chunk.js",
     "static/media/provinces.png": "/react-app/static/media/provinces.a5a5016f725dfcce74b8.png",
     "static/media/states.png": "/react-app/static/media/states.89e275ec5ce41ec9d79d.png",
@@ -10,12 +10,12 @@
     "static/media/provinces_icon.png": "/react-app/static/media/provinces_icon.edad84cb85623b9c928a.png",
     "static/media/states_icon.png": "/react-app/static/media/states_icon.ab207d1e4ebef53b149f.png",
     "index.html": "/react-app/index.html",
-    "main.5356f475.css.map": "/react-app/static/css/main.5356f475.css.map",
-    "main.9005f6bf.js.map": "/react-app/static/js/main.9005f6bf.js.map",
+    "main.de920fde.css.map": "/react-app/static/css/main.de920fde.css.map",
+    "main.80cb62e8.js.map": "/react-app/static/js/main.80cb62e8.js.map",
     "787.b701888c.chunk.js.map": "/react-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5356f475.css",
-    "static/js/main.9005f6bf.js"
+    "static/css/main.de920fde.css",
+    "static/js/main.80cb62e8.js"
   ]
 }
