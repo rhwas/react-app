@@ -93,7 +93,10 @@
     flex-direction: column;
     overflow-y: auto;
     background-size: 100% 100%;
-    background: url(../../map_data/background.jpg) no-repeat top left;
+    background-image: url(../../map_data/background.jpg);
+    background-position: top left;
+    background-repeat: no-repeat;
+
 }
 
 
